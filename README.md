@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/full-logo.jpg" />
 
-## Getting Started
+# Project Description 📝
+Canvas is a Graphic Design Saas tool where users can shape their imaginations using various text, images, drawing tools and templates. The system offers a user-friendly and responsive interface. <br/>
+It comes with advanced features such as AI image generation and background removal, real-time autosave and history management, exporting projects as PNG, SVG, JPG & JSON etc. <br/>
+Canvas leverages a robust tech stack that provides end-to-end type safety throughout the code-base using TypeScript, Zod Schemas, Hono RPC features, and Tanstack Query.
 
-First, run the development server:
+<img width="100%" src="https://github.com/DhruvChadha22/canvas/blob/main/public/overview-page1.jpg" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features
+- User Management: 
+    - Users can register, login and manage their accounts.
+- Canvas:
+    - Responsive and re-sizable canvas where users can create their projects.
+    - Users can add custom templates, choose or upload their own images to populate the canvas.
+    - Tools such as free-hand draw, text tools, shapes and many other enhancements available.
+    - AI features to generate images using prompts or remove image backgrounds.
+    - History management and automatic real-time saving.
+    - Users can easily export their projects in multiple formats and open imported files for ease of sharing.
+- Projects and Templates:
+    - Users can create, modify, copy and delete their projects.
+    - Users have access to all their created projects and some pre-defined templates to start from.
+- Subscriptions Management:
+    - Users can purchase a Pro Subscirption plan to gain access to premium features. 
+    - Premium features inlcude some custom templates, AI features.
+    - Users can check and manage their billings.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Frontend
+<code title="Next.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/nextjs.jpeg"></code>
+<code title="Fabric.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/nextjs.jpeg"></code>
+<code title="Tailwind CSS"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/tailwind-css.png"></code>
+<code title="Shadcn/UI"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/shadcn-ui.jpg"></code>
+<code title="Tanstack-Query"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/tanstack-query.png"></code>
+<code title="Zustand"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/zustand.jpeg"></code>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Backend
+<code title="Hono.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/hono.png"></code>
+<code title="PostgreSQL"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/postgresql.png"></code>
+<code title="Drizzle ORM"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/prisma.jpeg"></code>
+<code title="Auth.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/authjs.png"></code>
+<code title="Stripe"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
+<code title="Unsplash"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
+<code title="Upload-Thing"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
+<code title="Replicate-API"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
 
-## Learn More
+## Software Interface
 
-To learn more about Next.js, take a look at the following resources:
+### Login / Register Page
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/login-page.png" />
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/register-page.png" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Landing Page
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/landing-page1.png" />
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/landing-page2.png" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Editor Page
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/editor-page.png" />
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Stripe Payment Page
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/stripe-payment.png" />
