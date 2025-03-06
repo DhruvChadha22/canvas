@@ -1,11 +1,11 @@
-<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/full-logo.jpg" />
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/full-logo.png" />
 
 # Project Description 📝
 Canvas is a Graphic Design Saas tool where users can shape their imaginations using various text, images, drawing tools and templates. The system offers a user-friendly and responsive interface. <br/>
 It comes with advanced features such as AI image generation and background removal, real-time autosave and history management, exporting projects as PNG, SVG, JPG & JSON etc. <br/>
 Canvas leverages a robust tech stack that provides end-to-end type safety throughout the code-base using TypeScript, Zod Schemas, Hono RPC features, and Tanstack Query.
 
-<img width="100%" src="https://github.com/DhruvChadha22/canvas/blob/main/public/overview-page1.jpg" />
+<img width="100%" src="https://github.com/DhruvChadha22/canvas/blob/main/public/editor-page1.png" />
 
 ## Key Features
 - User Management: 
@@ -29,7 +29,7 @@ Canvas leverages a robust tech stack that provides end-to-end type safety throug
 
 ## Frontend
 <code title="Next.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/nextjs.jpeg"></code>
-<code title="Fabric.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/nextjs.jpeg"></code>
+<code title="Fabric.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/fabricjs.png"></code>
 <code title="Tailwind CSS"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/tailwind-css.png"></code>
 <code title="Shadcn/UI"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/shadcn-ui.jpg"></code>
 <code title="Tanstack-Query"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/tanstack-query.png"></code>
@@ -38,12 +38,12 @@ Canvas leverages a robust tech stack that provides end-to-end type safety throug
 ## Backend
 <code title="Hono.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/hono.png"></code>
 <code title="PostgreSQL"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/postgresql.png"></code>
-<code title="Drizzle ORM"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/prisma.jpeg"></code>
+<code title="Drizzle ORM"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/drizzle.png"></code>
 <code title="Auth.js"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/authjs.png"></code>
-<code title="Stripe"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
-<code title="Unsplash"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
-<code title="Upload-Thing"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
-<code title="Replicate-API"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/plaid.png"></code>
+<code title="Stripe"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/stripe.png"></code>
+<code title="Unsplash"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/unsplash.png"></code>
+<code title="Upload-Thing"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/uploadthing.png"></code>
+<code title="Replicate-API"><img height="35" src="https://github.com/DhruvChadha22/canvas/blob/main/public/replicate.png"></code>
 
 ## Software Interface
 
@@ -56,7 +56,7 @@ Canvas leverages a robust tech stack that provides end-to-end type safety throug
 <img src="https://github.com/DhruvChadha22/canvas/blob/main/public/landing-page2.png" />
 
 ### Editor Page
-<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/editor-page.png" />
+<img src="https://github.com/DhruvChadha22/canvas/blob/main/public/editor-page2.png" />
 
 ### Stripe Payment Page
 <img src="https://github.com/DhruvChadha22/canvas/blob/main/public/stripe-payment.png" />
